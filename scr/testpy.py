@@ -6,4 +6,5 @@ x = list('This is a test')
 y = set(x)
 
 print(x)
-print(y)
+print(y) 
+print (x, y)
